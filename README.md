@@ -40,7 +40,10 @@ How do sales vary by product category and type?
 
 ## Insights Gained
 *Identified peak sales times and high-demand days.*
+
 *Determined best-performing products and product categories.*
+
 *Discovered trends in sales revenue by month and location.*
+
 *Calculated the average order price per person.*
 
