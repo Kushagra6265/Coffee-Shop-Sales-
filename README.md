@@ -23,7 +23,8 @@ How do sales vary by product category and type?
 
 ## Features of the Dashboard
 
-### Interactive Charts:*Visual representation of sales trends and patterns.*
+### Interactive Charts:
+*Visual representation of sales trends and patterns.*
 ### Dynamic Filters:Allows users to drill down by date, location, and product type.
 ### Key Performance Metrics:Summarized insights such as total sales revenue and average order price.
 ### User-Friendly Design: Designed to be intuitive and easy to understand.
